@@ -1,5 +1,5 @@
 <h1 align="center">👋🏽 Hello, I'm Ismail!</h1>
-<h3 align="center">Android Developer.</h3>
+<h3 align="center">Android Developer.</h3></br>
 
 <p align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismai117&layout=compact&hide=html,makefile,shell,python,c,R,C++,php,ruby,hack&theme=tokyonight&count_private=true&exclude_repo=school_code,oldschool-visual-basic-6,comic-avatar-php-fb"/>
